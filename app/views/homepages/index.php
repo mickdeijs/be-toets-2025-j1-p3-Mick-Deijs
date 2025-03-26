@@ -16,7 +16,7 @@
             <a href="<?= URLROOT; ?>/torens/index">Hoogste Torens</a>     |
             <a href="<?= URLROOT; ?>/speakers/index">Beste Speakers</a>     |
             <a href="<?= URLROOT; ?>/zangeres/index">Beste Zangeressen</a> |
-            <a href="<?= URLROOT; ?>/ufc/index">UFC Mens Pound-For-Pound Ranking</a> |
+            <a href="<?= URLROOT; ?>/ufc/index">UFC Men's Pound-For-Pound Ranking</a> |
             
 
 
